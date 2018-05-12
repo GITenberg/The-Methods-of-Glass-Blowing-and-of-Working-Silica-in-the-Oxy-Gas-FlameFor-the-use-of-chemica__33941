@@ -1,0 +1,32 @@
+_repo: The-Methods-of-Glass-Blowing-and-of-Working-Silica-in-the-Oxy-Gas-FlameFor-the-use-of-chemica__33941
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shenstone, W. A. (William Ashwell)
+    alias: Shenstone, William Ashwell
+    birthdate: 1850
+    deathdate: 1908
+    gutenberg_agent_id: '36697'
+    url: http://www.gutenberg.org/2009/agents/36697
+description: ''
+gutenberg_bookshelf:
+- Technology
+- Manufacturing
+gutenberg_issued: '2010-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33941'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QD'
+- !lcsh 'Glass blowing and working'
+title: 'The Methods of Glass Blowing and of Working Silica in the Oxy-Gas Flame
+
+  For the use of chemical and physical students'
+url: http://www.gutenberg.org/ebooks/33941
